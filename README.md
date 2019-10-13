@@ -11,11 +11,11 @@ These plays are edited and continually revised by each subsequent class.  We als
 
 _One of the most difficult things for new students to adapt to in the early weeks of the course is the speed at which projects tend to evolve when agile methods and user centered design are applied.  This is equally difficult, if not more so for partners to adjust to._
 
-New ways of working, especially those that use human-centered design can feel unfamiliar and uncomfortable. Lean into it. Human-centered design and agile require a shift in mindset. Students may need to change focus after talking to project stakeholders and confirm different needs.  That's ok. This reframing of the original problem can not only lead to identifying the real issue but also result in work that is more nimble and uses resources more efficiently and effectively. 
+New ways of working, especially those that use human-centered design can feel unfamiliar and uncomfortable. Lean into it. Get comfortable with the uncomfortable. Human-centered design and agile require a shift in mindset. Students may need to change focus after talking to project stakeholders and confirm different needs.  That's ok. This reframing of the original problem can not only lead to identifying the real issue but also result in work that is more nimble and uses resources more efficiently and effectively. 
 
 **Needs are verbs; solutions are nouns.**
  
-As you review a project brief for Policy Innovation Lab, start with understanding what the users need. If you think about these needs as verbs instead of nouns (e.g., "I need to escape the rain" instead of "I need an umbrella), you will open up the realm of possibility for what you and your team can create as solutions that serve real needs. 
+As you review a project brief for Policy Innovation Lab, start with understanding what the users need. If you think about these needs as verbs instead of nouns (e.g., "I need to ESCAPE the rain" instead of "I need an umbrella), you will open up the realm of possibility for what you and your team can create as solutions that serve real needs. 
 
 **Frame the problem you're trying to solve through the point of view of the users.**
 
@@ -26,6 +26,12 @@ Avoid being so committed to the idea you had in week one that you can't see the 
 **Be open to user research.**
 
 Students need to do user research activities, like interviewing and prototype testing, in order to practice human-centered design. User research will also lead to greater impact. As you develop your partners for Policy Innovation Lab, ask various stakeholders if it would be ok if students reached out to you during the semester. Also be open to students utilizing or developing their own contacts for user research.
+
+**Set up opportunities for user testing from the beginning.**
+Early on, start strategizing what access you have to users and begin setting up interviews throughout the duration of the project. The quality of your users will differ if you wait until the last minute and have to obtain feedback from users that are not in your target population. 
+
+**Diversify your pool of users.**
+Often technology is designed for the educated and wealthy. Government services are meant to be for the greater public and that means ensuring that the voices of a range of users are included in your user research. 
 
 ## Play 2 - Establish regular and professional communication channels with your partner.
 
@@ -53,6 +59,10 @@ Be realistic about what you can complete in the time frame that will be most imp
 
 There’s a saying that programmers use – think global program locally. It means keep you vision big and keep it in front of you. But prototype small and lightweight. The prototype is a means to get people talking about what they need. A prototype triggers a richer discussion that isn’t possible to have by simply talking about an idea. Let your insights from interviewing people take the lead and guide you into promising directions. 
 
+**How are you measuring impact?**
+
+Begin your process by asking what is the vision, what is the the best-case scenario impact you would hope to have? Utilize this as a visionary marker to guide your process in designing. Engage with your stakeholders on a conversation about their definition of success for the project at hand. 
+
 ## Play 4 - Embrace openness and the technology.
 
 At first, you can think using a public Kanban board or Slack is odd. However, as we prepare to be policymakers and civil servants, it's important to get comfortable with transparency about the process (since taxpayers are entrusting us to make decisions on their behalf). Also, these are pretty cool tools to learn.
@@ -61,7 +71,7 @@ Keep prototyping and prepare partner facing documents with a lot of check out. K
 
 ## Play 5 - Be an active contributor. Expect more of your team. 
 
-Set team protocols, expectations, and roles early. Stick to them.  This should be completed very early on. In addition, Retrospectives should be used to continue to work on these expectations.  If your team is going to use Slack, then stick to it. If your team plans to use email, then use email. Ensure each team member is receiving the communications and can stay in the loop.  
+Set team protocols, expectations, and roles early. Pivot as needed.  This should be completed very early on. In addition, Retrospectives should be used to continue to work on these expectations.  If your team is going to use Slack, then stick to it. If your team plans to use email, then use email. Ensure each team member is receiving the communications and can stay in the loop.  
 
 Though sometimes roles make people feel like they’re pigeonholed into doing one type of work, they’re incredibly important for delegation and assigning responsibility. It’s simply more efficient. This doesn’t mean that that person has to do all the heavy lifting of that role (the Research lead doesn’t have to do all the research). Instead they are responsible for making sure the work is delivered on time every week. On the flip side, roles don’t mean you are free to turn down other types of work that don’t fall into your “lane.” Everyone should be an individual contributor for an even number of tasks.
 
@@ -141,6 +151,9 @@ Often project teams, partners, and other stakeholders get entrenched in their re
 
 Unless your Steve Jobs, your initial hypothesis is going to be wrong the moment you talk to a user. Our first guess about why a problem is happening and what could solve it is usually wrong. This is because people are complex, and they make decisions in random and unique ways. The users are going to give you insights that come from unexpected places. If you think you’ve found something interesting, you have. Dig deeper and learn more about it. If you think the user research does not support your idea, then pivot. Or think of another angle to approach your questions. People are interesting and they will always reveal, directly or indirectly, something valuable to learn. 
 
+**Ask yourself the Worst Case Scenario**
+Inspired by Smita Satiani's moonshot thinking methodology, ask yourself and your team what is the worst case scenario for your prototype. What is the absolute worst outcome with this design? Discuss the answer and be transparent about the faults in your work. 
+
 # Quotes from students (Spring '19)
 "I think that anyone who is really interested in federal government consulting should take this class" - Jana L.
 
@@ -151,6 +164,9 @@ Unless your Steve Jobs, your initial hypothesis is going to be wrong the moment 
 "This class lays a solid grounding for first-year students who have not yet had a project-based course. The skills developed in this class are applicable to other team-based projects in Heinz courses and for the Systems requirement later on." - Diana R.
 
 “This course offered real world experience in consulting and dealing with clients unlike most other courses. Even the frustrating moments were teaching moments.” - Peter H.
+
+# Quotes from students (Fall '19)
+"Policy Innovation Lab envisions and provides the tools for a world where the government harmoniously designs technology with the community they serve. Chris and Karen made me believe that a career at the intersection of policy and technology is not just possible, but in need of creative public interest technologists." -Maria K. 
 
 # Contributors (SP 19)
 - Mutiat Alagbala
@@ -172,7 +188,7 @@ Unless your Steve Jobs, your initial hypothesis is going to be wrong the moment 
 - Tiffany Zhu 
 
 # Contributors (Fall 2019)
-- Your name here!
+- Maria T. Khan | mtkhan@andrew.cmu.edu
 
 Faculty: Chris Goranson  
 =======
